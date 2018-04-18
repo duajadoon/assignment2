@@ -1,0 +1,87 @@
+#slider
+{
+background-image:url("landing..jpg");
+padding: inherit;
+}
+#happy{
+padding: 40;
+font-size: 20;
+background-color: white
+}
+#party{
+padding:20;
+background-color: #F76222;
+font-size: 20;
+color:white
+}
+#BreakFast{
+  background-image: url("breakfast.jpg");
+  padding: 80;
+  color:white;
+}
+#Launch{
+
+  background-image: url("Lunch.jpg");
+    padding: 80;
+      color:white;
+}
+#Dinner{
+  background-image: url("dinner.jpg");
+  padding: 80;
+    color:white;
+}
+.pic
+{
+  padding-right:4px;
+  display: inline;
+  height: 230px;
+  width: 240px;
+}
+.tab button:hover
+{
+  background-color: #ddd;
+}
+.tab button:active
+{
+  background-color: #ccc;
+} .tabcontent
+{
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+.tab button
+{
+  background-color: inherit;
+  float: left;
+  border: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+
+}
+
+
+#ss{
+  background-color: #ccc;
+}
+#slide
+{
+background-image:url("sub.jpg");
+padding-top: 120;
+height: 400;
+}
+#s {
+  background-image: url("tom.jpg");
+  height:200;
+}
+#t{
+  background-color:#f76222;
+
+  padding-top: 26;
+  Color:white;
+  }
+  img.g {
+      padding: 0 10px;
+  }
